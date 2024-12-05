@@ -1,0 +1,17 @@
+{
+  "name": "assignment1-ma30190",
+  "version": "1.0.0",
+  "main": "campusModel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "three": "^0.171.0",
+    "vite": "^6.0.3"
+  }
+}
